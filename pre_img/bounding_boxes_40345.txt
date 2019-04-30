@@ -1,0 +1,5 @@
+./pre_img/01000019/86.png
+./pre_img/01000019/85.png
+./pre_img/01000019/87.png
+./pre_img/01000019/84.png
+./pre_img/01000019/88.png
